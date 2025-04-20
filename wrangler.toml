@@ -1,2 +1,6 @@
-# wrangler.toml
-name = 'bestiescal'
+name = "bestiescal"
+compatibility_date = "2025-04-20"
+main = "src/index.js"
+
+[site]
+bucket = "./public"
