@@ -1,5 +1,2 @@
-name = "friends-calendar"
-main = "_worker.js"
-
-[site]
-bucket = "."
+# wrangler.toml
+name = 'bestiescal'
